@@ -539,8 +539,4 @@ input[type="number"]::-webkit-outer-spin-button {
   height: 1.3rem;
 }
 
-/* Optional: hide the text completely by matching background */
-input[type="number"]::-webkit-textfield-decoration-container,
-input[type="number"] {
-  color: transparent;
-}
+
